@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-este es un reposito de prueba del modulo 2 de henry
+Este proyecto es una prueba para clonar 
+y cambiar el texto en el 
